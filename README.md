@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi eu sou o Cassio Lima 👋
 
 <!--
 **CassioLimaP/CassioLimaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📒 Atualmente cursando sistemas de informacao na UFRRJ
+- 🌱 Atualmente interessado em mineracao de dados e IA 
